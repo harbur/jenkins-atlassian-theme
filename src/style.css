@@ -1,5 +1,5 @@
 body {
-#  background-color: #205081;
+  background-color: #205081;
 }
 
 table, form, input, td, th, p, textarea, select {
@@ -44,7 +44,7 @@ img {
 /* top panel */
 
 #top-panel {
-  background: none; 
+  background-color: #205081;
 }
 
 #top-panel td#login-field span a {
