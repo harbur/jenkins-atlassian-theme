@@ -44,6 +44,7 @@ img {
 /* top panel */
 
 #top-panel {
+  background: none repeat scroll 0 0 #205081;
   background-color: #205081;
 }
 
